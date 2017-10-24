@@ -13,3 +13,4 @@ We’re going to see how far we can get in implementing a supermarket checkout t
 
 Our checkout accepts items in any order, so that if we scan a B, an A, and another B, we’ll recognize the two B’s and price them at 45 (for a total price so far of 95).
 
+Inspired from hibri/pair-programming-interview-resources: https://github.com/hibri/pair-programming-interview-resources/wiki/The-Checkout-Kata 
